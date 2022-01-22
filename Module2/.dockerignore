@@ -1,0 +1,17 @@
+server/build/
+server/LICENSE
+server/README.md
+
+web-client/LICENSE
+web-client/README.md
+
+client/dist/
+client/LICENSE
+client/README.md
+client/.next
+
+**/node_modules/
+
+database/
+
+.git
