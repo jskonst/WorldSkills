@@ -1,0 +1,152 @@
+.navbar {
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 70px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.form_wrap {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.wrap {
+    padding: 30px;
+    border-radius: 10%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.reg_input {
+    margin: 5px!important;
+}
+
+.nav-link {
+    color: #fff;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.accaunt_link {
+    margin-right: 50px;
+}
+
+.article_wrapper {
+    height: 300px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+}
+
+.article_h1 {
+    margin-top: 10px;
+    max-width: 100%;
+    text-align: center;
+    max-height: 150px;
+    font-size: auto;
+}
+
+.article_h1 a {
+    max-width: 100%;
+    word-wrap: break-word;
+    max-height: 100px;
+    font-size: 80%;
+}
+
+.authorname {
+    color: darkgray;
+}
+
+.article_wrapper p {
+    height: 100%;
+    font-size: medium;
+    border-radius: 10%;
+    padding: 15px;
+}
+
+.article_wrapper a {
+    color: black;
+    text-decoration: none;
+}
+
+.article_wrapper a:hover {
+    color: #0d6efd;
+}
+
+.article {
+    width: 80%;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.pubdate {
+    align-self: self-end;
+    color: rgb(145, 145, 145);
+}
+
+.articlecreate_wrap {
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+.inputs_article {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.reg_areainput {
+    width: 500px;
+    height: 300px;
+}
+
+.title_input {
+    width: 500px;
+}
+
+.footer {
+    max-height: 50px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    display: flex;
+    color: #fff;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
